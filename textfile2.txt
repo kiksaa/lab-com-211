@@ -1,0 +1,3 @@
+Name[1] = joy and Job[1] = teacher
+Name[2] = jib and Job[2] = mate
+Name[3] = jack and Job[3] = programmer
